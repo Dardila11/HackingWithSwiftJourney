@@ -26,4 +26,3 @@ let showLuckyNumbers = luckyNumbers.filter {
 }
 
 print(showLuckyNumbers)
-
